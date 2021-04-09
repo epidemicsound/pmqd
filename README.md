@@ -256,18 +256,20 @@ annotators expectations.
 If you use this in your research, please cite our paper as
 
 ```bibtex
-@article{hilmkil2020perceiving,
-  title={Perceiving Music Quality with GANs},
-  author={Hilmkil, Agrin and Thom{\'e}, Carl and Arpteg, Anders},
-  journal={arXiv preprint arXiv:2006.06287},
-  year={2020}
+@misc{hilmkil2021perceiving,
+      title={Perceiving Music Quality with GANs},
+      author={Agrin Hilmkil and Carl Thomé and Anders Arpteg},
+      year={2021},
+      eprint={2006.06287},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD}
 }
 ```
 
 ## References
 
 <a id="1">[1]</a>
-Hilmkil, A., Thomé, C. and Arpteg, A., 2020.
+Hilmkil, A., Thomé, C. and Arpteg, A., 2021.
 Perceiving Music Quality with GANs.
 arXiv preprint arXiv:2006.06287.
 
