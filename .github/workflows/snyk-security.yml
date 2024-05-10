@@ -1,0 +1,10 @@
+name: Run Snyk Scan for Package Vulnerabilities for pmqd
+'on': push
+jobs:
+  snyk-scan-python:
+    permissions:
+      contents: read
+      id-token: write
+    uses: epidemicsound/github-workflows/.github/workflows/snyk-scan-python.yaml@main
+    with:
+      python-version: 0
